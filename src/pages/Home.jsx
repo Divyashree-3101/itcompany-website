@@ -4,7 +4,7 @@ import "../website.css";
 const Home = () => {
   return (
       <div className="home-page">
-        <h1>Welcome to our Company website </h1>
+        <h1>Welcome to DivTech! </h1>
         <p>We provide top-notch IT solutions for your businesses.</p>
 
         {}

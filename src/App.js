@@ -7,6 +7,7 @@ import Services from "./pages/Services";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Chatbot from "./components/Chatbot";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Navigate to="/" />} /> { }
       </Routes>
+      <Footer />
     </Router>
   );
 }
