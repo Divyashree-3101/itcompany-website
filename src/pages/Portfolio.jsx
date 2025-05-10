@@ -1,31 +1,3 @@
-// import React from "react";
-// import "../website.css";
-
-// const Portfolio = () => {
-//   return (
-//     <div className="portfolio-page">
-//       <h2>Our Projects</h2>
-//       <div className="portfolio-container">
-//         <div className="portfolio-item">
-//           <h3>Project 1</h3>
-//           <p>Modern business website with interactive UI.</p>
-//         </div>
-//         <div className="portfolio-item">
-//           <h3>Project 2</h3>
-//           <p>E-commerce platform with payment integration.</p>
-//         </div>
-//         <div className="portfolio-item">
-//           <h3>Project 3</h3>
-//           <p>Cloud-based data storage system.</p>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default Portfolio;
-
-
 import React from "react";
 import "../website.css";
 

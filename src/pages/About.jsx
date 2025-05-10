@@ -4,7 +4,6 @@ import "../website.css";
 const About = () => {
   return (
     <div className="about-page">
-      {/* About Us Section */}
       <h2>About Us</h2>
       <p>
         DivTech is a leading IT solutions provider, committed to delivering cutting-edge 
@@ -29,7 +28,6 @@ const About = () => {
         </div>
       </div>
 
-      {/* Our Team Section (Optional) */}
       <div className="our-team-section">
         <h2>Meet Our Team</h2>
         <p>We are a group of passionate innovators, developers, and designers dedicated to delivering excellence.</p>
